@@ -1,13 +1,13 @@
 # FrontLearn
 A HTML CSS JS basic learning project day by day  
 这是一个按日学习HTML的日志仓库，主要重心是在HTML的学习上。  
-每一天的代码，都是在前一天的代码上进行新增。  
+每一天的代码，都可以温习前一天的代码。  
 
 ## Day 1 本地环境搭建 - [Nginx 安装、运行、停止](/html/day1)  
 
 ## Day 2 第一段代码 - [第一个HTML页面 Hello World!](/html/day2)  
 
-## Day 3 第一个样式 - [第一个样式 使字体变红居中](/html/day3)  未完成
+## Day 3 第一个样式 - [第一个样式 使字体变红居中](/html/day3)  
 
 ## Day 4 第一个脚本 - [第一个脚本 使文字变更](/html/day4)  未完成
 
