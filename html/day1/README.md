@@ -30,5 +30,6 @@ Ubuntu:`sudo nginx -c /usr/home/FrontLearn/nginx-1.17.3-win/conf/nginx.conf`
 Mac:`sudo /usr/local/nginx/sbin/nginx -s stop`  
 Ubuntu::`sudo nginx -s stop`  
 Windows:任务管理器直接停止nginx.exe
-## Finally  
+## Finally And Attention  
+其中有一点注意事项，本地仓库必须要放在一个没有权限控制的地方，否则会出现403，日志可以看到是Permission Denied.
 最后，我们必须牢记nginx的运行和停止方法，我们每天的html学习都是基于启动nginx后的即时刷新来学习的。
